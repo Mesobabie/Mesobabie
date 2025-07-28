@@ -1,6 +1,6 @@
 # About me 
 
-- 🔭 I’m currently working on a career transition into the tech space.
+- 🔭 I’m currently working on a career transition into the data space.
 - 🌱 I’m currently learning Data Science & AI
 - 👯 I’m looking to collaborate on anything to make me the best Data Scientist ever!!!
 - 🤔 I’m looking for help with being on top of trends in this new sphere I am embarking on.
